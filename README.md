@@ -196,11 +196,6 @@
   <img src="https://streak-stats.demolab.com?user=Mo-Ahmed-Ah&theme=tokyonight&hide_border=true&background=0e1525&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=484f58" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mo-Ahmed-Ah&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5" width="100%" />
-</p>
-
----
 
 ---
 
@@ -251,22 +246,3 @@
 
 </div>
 ```
-
----
-
-### What changed:
-
-| Area | Before | After |
-|------|--------|-------|
-| **Header** | Plain text name | Animated wave banner + typing animation |
-| **Badges** | Basic shields.io | Coordinated dark theme with `labelColor` matching background |
-| **About Me** | Simple bullet list | Two-column layout with quote, GIF, and more descriptive points |
-| **Tech Stack** | Flat icon rows | Organized tables with labels per category (Languages, Backend, Frontend, Databases, Tools) |
-| **Tools** | Not included | Added Git, GitHub, VS Code, Visual Studio 2022, Postman, SSMS |
-| **Learning** | Plain text block | Visual progress bars with percentage indicators |
-| **Stats** | 2 cards + streak | 4 sections — stats, top langs, **activity graph**, streak, **trophy shelf** |
-| **Architecture** | Not included | ASCII diagram showing Clean Architecture layers |
-| **Contact** | Simple list | Two-column table with contextual badges |
-| **Footer** | Static quote | Typing quote animation + **snake contribution animation** |
-| **Separators** | `---` | Animated gradient GIF dividers |
-
