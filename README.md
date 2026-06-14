@@ -202,26 +202,6 @@
 
 ---
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" />
-
-## 🏗️ Architecture I Follow
-
-```
-┌─────────────────────────────────────────────┐
-│              Presentation Layer              │
-│         (Controllers / Minimal APIs)         │
-├─────────────────────────────────────────────┤
-│             Application Layer                │
-│      (Services / DTOs / Interfaces)          │
-├─────────────────────────────────────────────┤
-│               Domain Layer                   │
-│      (Entities / Value Objects / Enums)      │
-├─────────────────────────────────────────────┤
-│            Infrastructure Layer              │
-│   (DbContext / Repositories / External APIs) │
-└─────────────────────────────────────────────┘
-```
-
 ---
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" />
