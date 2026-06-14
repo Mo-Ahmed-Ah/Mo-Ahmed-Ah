@@ -232,17 +232,4 @@
 </tr>
 </table>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e1525&height=100&section=footer" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&pause=2000&color=8B949E&center=true&vCenter=true&width=500&lines=%E2%80%9CCode.+Learn.+Improve.+Repeat.%E2%80%9D" alt="Quote" />
-
-<br>
-
-<img src="https://github.com/Mo-Ahmed-Ah/Mo-Ahmed-Ah/blob/output/snake.svg" alt="Snake animation" />
-
-</div>
 ```
